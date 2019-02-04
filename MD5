@@ -1,7 +1,7 @@
-690804f763a161c1e320accc8628cfaa *DESCRIPTION
-ec91fb093c5a8fae2259b833c756cdd3 *NAMESPACE
+4d8aae68756206394704e237e9ea3f6a *DESCRIPTION
+8fff6ae4e0b39df7233c377283c78791 *NAMESPACE
 13ef75b437ade6c3817c09e6f4dc222f *R/drug.R
-daac960593ba9e4b63935c09a65edbbf *R/spec.R
+412cddce208da20e5fb80c9bc609862b *R/spec.R
 aa39ba895269421168d3f077f11a08d7 *data/drug.rda
 45a4ffe6105e5d6c129af2e78df72a9f *man/as.spec.Rd
 2d229c56afa0ddca2833f6fa2273e6a5 *man/as.spec.character.Rd
@@ -15,7 +15,7 @@ c2f1eca85452cba2f547e0e10a1b42ac *man/grapes-matches-grapes-.character.Rd
 b5073da1acc8c6b2a5e3a49494727216 *man/grapes-matches-grapes-.data.frame.Rd
 bb586066d67a020d028340e35f3afa64 *man/grapes-matches-grapes-.spec.Rd
 a4d13ad099a95a37f924d22f6b60762d *man/grapes-matches-grapes.Rd
-e7b36ba8596d6acb4e18735429537d72 *man/guidetext.Rd
+aefb9d298abdaaa8b74998f26203d1f5 *man/guidetext.Rd
 6189f76821bc2bbf4d777aba804a0ab6 *man/guidetext.spec.Rd
 5b99ca1009e943eba96905dfd21af7a4 *man/labels.spec.Rd
 f9a4f1b7dc66c5fbec0c242ed5bd6da7 *man/print.spec.Rd
@@ -27,4 +27,7 @@ deaabadc671ed7708432c93675a75611 *man/respecify.spec.Rd
 2a9e74015d12fe50253be723c123e120 *man/specification.comment.Rd
 d7d371607e00e1ca382cba2b8d250ad4 *man/specification.data.frame.Rd
 728241d012691441291ac0f5db873f49 *man/specification.default.Rd
+4e3d98810a99dc1e349193007f200b4f *man/specify.Rd
+72b3c9d48d6766cb867cc79910828705 *man/specify.character.Rd
+8ec1f51da19cfa546fc06a93af9ca3e5 *man/specify.data.frame.Rd
 b6718b099aa843c3dab8af8593515903 *man/write.spec.Rd
